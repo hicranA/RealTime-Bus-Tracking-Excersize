@@ -1,6 +1,6 @@
 
  // TODO: add your own access token
- mapboxgl.accessToken = config.MY_API_TOKEN;
+  mapboxgl.accessToken = 'pk.eyJ1IjoiaGljcmFuYXJub2xkIiwiYSI6ImNrcHB3ZHJxaTA3a3IycnFwNHhpOWpzczUifQ.Gp3qjHjphUVGrC5Nrn0S8w';
 
 // This is the map instance
 let map = new mapboxgl.Map({
